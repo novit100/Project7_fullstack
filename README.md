@@ -2,11 +2,12 @@
 ![login](https://github.com/novit100/Project7_fullstack/assets/73182169/12bfa77f-1c2c-4a7a-81fb-5f639eadd502)
 
 ![home1](https://github.com/novit100/Project7_fullstack/assets/73182169/9b4214dd-6cb2-4a5f-b3a8-72fe089a4e50)
+![products](https://github.com/novit100/Project7_fullstack/assets/73182169/18436557-fcb1-4371-bd1f-41e4bb693c11)
+![mycart](https://github.com/novit100/Project7_fullstack/assets/73182169/d91606aa-9751-40d3-828e-e2dd4c4a6e56)
 ![add product](https://github.com/novit100/Project7_fullstack/assets/73182169/1e15b623-7a2e-4e68-b81e-c37b62b8adbe)
 ![PaymentSucceeded](https://github.com/novit100/Project7_fullstack/assets/73182169/df698c4b-7148-47e3-abff-4f2d76b6ff9a)
 ![Uploading recipies.png…]()
-![products](https://github.com/novit100/Project7_fullstack/assets/73182169/18436557-fcb1-4371-bd1f-41e4bb693c11)
-![mycart](https://github.com/novit100/Project7_fullstack/assets/73182169/d91606aa-9751-40d3-828e-e2dd4c4a6e56)
+
 
 # Getting Started with Create React App
 
