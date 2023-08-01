@@ -1,3 +1,10 @@
+![add product](https://github.com/novit100/Project7_fullstack/assets/73182169/1e15b623-7a2e-4e68-b81e-c37b62b8adbe)
+![PaymentSucceeded](https://github.com/novit100/Project7_fullstack/assets/73182169/df698c4b-7148-47e3-abff-4f2d76b6ff9a)
+![Uploading recipies.png…]()
+![products](https://github.com/novit100/Project7_fullstack/assets/73182169/18436557-fcb1-4371-bd1f-41e4bb693c11)
+![mycart](https://github.com/novit100/Project7_fullstack/assets/73182169/d91606aa-9751-40d3-828e-e2dd4c4a6e56)
+![Uploading login.png…]()
+![Uploading home1.png…]()
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Uploading home.png…]()
+![Uploading addRecipe.png…]()
+
